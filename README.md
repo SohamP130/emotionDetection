@@ -1,2 +1,1 @@
-# emotionDetection
 Final Project
